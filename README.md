@@ -14,16 +14,17 @@ This is a beginner-friendly Python program that:
 2. Run the script in a terminal using Python 3: python dna_analyser.py
 3. Type DNA sequence when prompted: Enter your sequence: atgctg123!!taa
 4. Output will be:
-   Cleaned DNA: ATGCTGTAA
+    Cleaned DNA: ATGCTGTAA
 
-  🔬 DNA Analysis Report:
-  • A: 3
-  • T: 2
-  • C: 1
-  • G: 2
-  • GC Content: 33.33 %
+   🔬 DNA Analysis Report:
+     • A: 3
+     • T: 2
+     • C: 1
+     • G: 2
+     • GC Content: 33.33 %
 
 
-🚀 Built by Alessio Santoprete
+🚀 Built by Alessio 
+Learning Python + Bioinformatics 🧬💻
 
 
