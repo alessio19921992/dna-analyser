@@ -1,3 +1,4 @@
+![DNA Analyzer Banner](https://github.com/alessio19921992/dna-analyser/blob/main/dna-analyser-banner.png)
 #🧬 DNA Analyzer
 
 This is a beginner-friendly Python program that:
